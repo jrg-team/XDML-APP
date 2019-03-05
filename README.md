@@ -1,6 +1,6 @@
 # XDML-APP
 ## 写代码啦客户端
-### [mac下载地址](https://video.jirengu.com/XDML-APP-darwin-x64.zip)
+### [mac下载地址](https://cloud.hunger-valley.com/XDML-APP-darwin-x64.zip)
 ### [win64位下载地址](https://video.jirengu.com/win-64.zip)
 ### [win32位下载地址](https://video.jirengu.com/XDML-APP-win32-ia32.zip)
 ### [linux-arm64下载地址](https://video.jirengu.com/XDML-APP-linux-arm64.zip)
