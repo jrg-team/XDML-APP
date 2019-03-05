@@ -7,3 +7,12 @@
 ### [linux-armv7l下载地址](https://video.jirengu.com/XDML-APP-linux-armv7l.zip)
 ### [linux-x64下载地址](https://video.jirengu.com/XDML-APP-linux-x64.zip)
 ### [linux-ia32下载地址](https://video.jirengu.com/XDML-APP-linux-ia32.zip)
+
+## 快捷键
+```
+前进 cmd + ]
+后退 cmd + [
+刷新 cmd + r
+强制刷新 cmd + shift + r
+退出 cmd + q
+```
