@@ -16,3 +16,5 @@
 强制刷新 cmd + shift + r
 退出 cmd + q
 ```
+
+![win](https://static.xiedaimala.com/xdml/image/02c5b19d-3b0e-47a8-a93b-301578c0f039/2019-4-10-18-6-28.png)
