@@ -1,9 +1,9 @@
 # XDML-APP
 
 ## 写代码啦新版客户端
-### [mac下载地址 xdml-app-2.0.0.dmg](https://static.xiedaimala.com/xdml-app/xdml-app-2.0.0.dmg)
-### [linux下载 xdml-app_setup_2.0.0.AppImage](https://static.xiedaimala.com/xdml-app/xdml-app_setup_2.0.0.AppImage)
-### [win下载 xdml-app_setup_2.0.0.exe](https://static.xiedaimala.com/xdml-app/xdml-app_setup_2.0.0.exe)
+### [mac版本:xdml-app-2.0.0.dmg](https://static.xiedaimala.com/xdml-app/xdml-app-2.0.0.dmg)
+### [linux版本:xdml-app_setup_2.0.0.AppImage](https://static.xiedaimala.com/xdml-app/xdml-app_setup_2.0.0.AppImage)
+### [win版本：xdml-app_setup_2.0.0.exe](https://static.xiedaimala.com/xdml-app/xdml-app_setup_2.0.0.exe)
 
 
 
